@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kernel-hunter.github.io/sitemap.xml
+Sitemap: https://kernel-hunter.github.io/boost/sitemap.xml
